@@ -1,0 +1,21 @@
+{
+  "short_name": "SL",
+  "name": "Standard Lift S.A.",
+  "icons": [
+    {
+      "src": "standardLift.ico",
+      "type": "image/x-icon",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/icons-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "standardlift.com.ar",
+  "background_color": "#000",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#1155cc"
+}
